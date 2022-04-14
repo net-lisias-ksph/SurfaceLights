@@ -1,5 +1,14 @@
 # Surface Mounted Lights :: Change Log
 
+* 2016-0506: 1.2.3.alpha2 (IgorZ) for KSP 1.1 PRE-RELEASE
+	+ Pre-release changes:
+		- [Change] Minor code adjustments to compile under KSP 1.1
+		- [Change] Disable animation on 4-way light since it doesn't work properly anyways.
+		- [Change] Rename GUI action and event names in 4-way light to identify which light they control.
+		- [Internal] Create a multipoint light modulde and use it in 4-2ay light.
+		- [Internal] Migrate spot and omny lights to the stock LightModule.
+		- [Internal] Drop incomplete SurfaceNavLight module.
+		- [Internal] Drop unused SurfaceLight module.
 * 2016-0504: 1.2.3.alpha1 (IgorZ) for KSP 1.1 PRE-RELEASE
 	+ Minor code adjustments to compile under KSP 1.1
 * 2016-0514: 1.2.3 (IgorZ) for KSP 1.1
