@@ -1,5 +1,10 @@
 # Surface Mounted Lights :: Change Log
 
+* 2017-1003: 1.6 (IgorZ) for KSP 1.3
+	+ This is not a mod release__. In order to install the mod into your game, read the instructions on the [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/139724-12-surface-mounted-stock-alike-lights-for-self-illumination-v131/).
+	+ 1.6 (October 2nd, 2017)
+			- [Change] Put the stock lights into the CCK category.
+			- [Enhancement] Support CCK Lights "category".
 * 2017-0921: 1.5 (IgorZ) for KSP 1.3
 	+ This is not a mod release__. In order to install the mod into your game, read the instructions on the [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/139724-12-surface-mounted-stock-alike-lights-for-self-illumination-v131/).
 	+ 1.5 (September 21st, 2017)
