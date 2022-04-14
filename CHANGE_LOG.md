@@ -1,5 +1,8 @@
 # Surface Mounted Lights :: Change Log
 
+* 2019-0309: 1.12 (IgorZ) for KSP ['1.6.1', '1.6.0']
+	+ 1.12 (March 8th, 2019):
+		- [Fix #19] Compatibility with ReStock mod.
 * 2019-0112: 1.11 (IgorZ) for KSP ['1.6.1', '1.6.0']
 	+ 1.11 (January 12th, 2019):
 		- [Enhancement] Add Portuguese localization (PT_br).
