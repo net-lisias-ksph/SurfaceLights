@@ -1,5 +1,9 @@
 # Surface Mounted Lights :: Change Log
 
+* 2021-0206: 1.18 (IgorZ) for KSP 1.11.0
+	+ 1.18 (February 2nd, 2021):
+		- [Fix #36] ReStock lights get broken.
+		- [Change] Disable "lens brightness" option in the stock parts to not break their design.
 * 2020-1227: 1.17 (IgorZ) for KSP 1.11.0
 	+ 1.17 (December 26th, 2020):
 		- [Fix #33] Duplicated "Light On/Off" events in PAW.
