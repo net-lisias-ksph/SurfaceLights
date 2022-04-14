@@ -1,5 +1,8 @@
 # Surface Mounted Lights :: Change Log
 
+* 2019-1202: 1.15 (IgorZ) for KSP ['1.8.1', '1.8']
+	+ 1.15 (December 1st, 2019):
+		- [Fix #25] Stock lights don't emit light, conflict with Restock.
 * 2019-1028: 1.14 (IgorZ) for KSP 1.8
 	+ 1.14 (October 27th, 2019):
 		- [Change] `KSP 1.8` compatibility. __WARNING__: the mod won't work with version lower than `KSP 1.8`!
