@@ -1,5 +1,9 @@
 # Surface Mounted Lights :: Change Log
 
+* 2018-0309: 1.7 (IgorZ) for KSP ['1.4.2', '1.4.1', '1.4.0']
+	+ This is not a mod release__. In order to install the mod into your game, read the instructions on the [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/139724-12-surface-mounted-stock-alike-lights-for-self-illumination-v131/).
+	+ 1.7 (March 8th, 2018)
+			- KSP 1.4 support.
 * 2017-1003: 1.6 (IgorZ) for KSP 1.3
 	+ This is not a mod release__. In order to install the mod into your game, read the instructions on the [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/139724-12-surface-mounted-stock-alike-lights-for-self-illumination-v131/).
 	+ 1.6 (October 2nd, 2017)
