@@ -1,5 +1,9 @@
 # Surface Mounted Lights :: Change Log
 
+* 2019-0112: 1.11 (IgorZ) for KSP ['1.6.1', '1.6.0']
+	+ 1.11 (January 12th, 2019):
+		- [Enhancement] Add Portuguese localization (PT_br).
+		- [Fix #16] Parts without bulkheadProfiles breaks KSP 1.6.
 * 2018-1222: 1.10 (IgorZ) for KSP 1.6.0
 	+ 1.10 (December 22nd, 2018)
 		- [Change] KSP 1.6 compatibility.
