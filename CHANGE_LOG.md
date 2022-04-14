@@ -1,5 +1,7 @@
 # Surface Mounted Lights :: Change Log
 
+* 2016-0504: 1.2.3.alpha1 (IgorZ) for KSP 1.1 PRE-RELEASE
+	+ Minor code adjustments to compile under KSP 1.1
 * 2016-0514: 1.2.3 (IgorZ) for KSP 1.1
 	+ 1.2.3 (May 13, 2016):
 		- [Change] Code adjustments to compile under KSP 1.1.2
