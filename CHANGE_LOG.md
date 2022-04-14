@@ -1,5 +1,8 @@
 # Surface Mounted Lights :: Change Log
 
+* 2018-1017: 1.9 (IgorZ) for KSP 1.5
+	+ 1.9 (OCtober 16th, 2018)
+		- [Change] KSP 1.5 compatibility.
 * 2018-0709: 1.8 (IgorZ) for KSP ['1.4.3', '1.4.2', '1.4.1', '1.4.0']
 	+ 1.8 (July 8th, 2018)
 		- [Change] Upgrade the `ModuleManager` dependency version.
