@@ -1,5 +1,8 @@
 # Surface Mounted Lights :: Change Log
 
+* 2019-0424: 1.13 (IgorZ) for KSP 1.7
+	+ 1.13 (April 23rd, 2019):
+		- [Change] KSP 1.7 compatibility.
 * 2019-0309: 1.12 (IgorZ) for KSP ['1.6.1', '1.6.0']
 	+ 1.12 (March 8th, 2019):
 		- [Fix #19] Compatibility with ReStock mod.
