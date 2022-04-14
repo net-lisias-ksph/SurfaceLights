@@ -1,5 +1,7 @@
 # Surface Mounted Lights :: Change Log
 
+* 2016-1012: 1.3.0 (IgorZ) for KSP 1.2
+	+ KSP 1.2 support
 * 2016-0524: 1.2.4 (IgorZ) for KSP 1.1
 	+ 1.2.4 (May 23, 2016):
 		- [Change] Add surface light modules to stackable KIS items. Needs Module Manager.
