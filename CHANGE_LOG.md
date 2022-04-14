@@ -1,5 +1,9 @@
 # Surface Mounted Lights :: Change Log
 
+* 2016-1202: 1.3.1 (IgorZ) for KSP 1.2
+	+ This is not a mod release__. In order to install the mod into your game, read the instructions on the [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/139724-12-surface-mounted-stock-alike-lights-for-self-illumination-v131/).
+	+ 1.3.1 (December 1st, 2016)
+			- [Enhancement #3] Support lens color in the stock lighting parts.
 * 2016-1012: 1.3.0 (IgorZ) for KSP 1.2
 	+ KSP 1.2 support
 * 2016-0524: 1.2.4 (IgorZ) for KSP 1.1
