@@ -1,5 +1,10 @@
 # Surface Mounted Lights :: Change Log
 
+* 2018-0709: 1.8 (IgorZ) for KSP ['1.4.3', '1.4.2', '1.4.1', '1.4.0']
+	+ 1.8 (July 8th, 2018)
+		- [Change] Upgrade the `ModuleManager` dependency version.
+		- [Enhancement] Add Italian localization (IT_it).
+		- [Enhancement] Add Spanish localization (ES_es).
 * 2018-0309: 1.7 (IgorZ) for KSP ['1.4.2', '1.4.1', '1.4.0']
 	+ This is not a mod release__. In order to install the mod into your game, read the instructions on the [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/139724-12-surface-mounted-stock-alike-lights-for-self-illumination-v131/).
 	+ 1.7 (March 8th, 2018)
