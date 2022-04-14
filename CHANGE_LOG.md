@@ -1,5 +1,14 @@
 # Surface Mounted Lights :: Change Log
 
+* 2020-1227: 1.17 (IgorZ) for KSP 1.11.0
+	+ 1.17 (December 26th, 2020):
+		- [Fix #33] Duplicated "Light On/Off" events in PAW.
+		- [Change] Deprecate the legacy RGB controls in favor of the new stock color changer.
+		- [Change] Deprecate the stock lights lens customization since it's now supported by the game.
+		- [Enhancement] Make the light parts compatible with the stock inventory system.
+		- [Enhancement] Allow "Blink On/Off" toggle on the uncommand vessels.
+		- [Enhancement] Add light customization controls in FLIGHT to the new stock light parts.
+		- [Enhancement] Group the new stock lights into the "Lights" category.
 * 2020-1227: 1.16 (IgorZ) for KSP ['1.10', '1.9.1', '1.9']
 	+ 1.16 (May 12th, 2020):
 		- [Fix #4] Add range and spot angle adjutsable controls.
